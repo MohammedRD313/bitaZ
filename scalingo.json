@@ -3,7 +3,7 @@
     "description": "• تنصيب سـورس زدثــون مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
     "keywords": ["zthon", "ai","telegram"],
-    "repository": "https://github.com/ZThon-fr/bita",
+    "repository": "https://github.com/MohammedRD313/ZTZ",
     "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
     "stack": "container",
     "env": {
@@ -19,12 +19,12 @@
         "APP_ID": {
             "description": "كـود ايبي ايـدي〔 App id 〕اتركـه كمـا هــو",
             "required": true,
-            "value":"27455984"
+            "value":""
         },
         "API_HASH": {
             "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
             "required": true,
-            "value":"62d5f68ce2e9189636967120220f5755"
+            "value":""
         },
         "TZ": {
             "description": "المنطقـــه الزمنيـــه لا تغيــرهـــا",
